@@ -3,32 +3,30 @@
 \alias{amabie}
 \docType{package}
 \title{
-\packageTitle{amabie}
+test
 }
 \description{
-\packageDescription{amabie}
+test
 }
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{amabie}
-\packageIndices{amabie}
-~~ An overview of how to use the package, including the most important functions ~~
+test
+test
+test
 }
 \author{
-\packageAuthor{amabie}
-
-Maintainer: \packageMaintainer{amabie}
+test
+test
 }
 \references{
-~~ Literature or other references for background information ~~
+test
 }
 ~~ Optionally other standard keywords, one per line, from file KEYWORDS in the R documentation directory ~~
 \keyword{ package }
 \seealso{
-~~ Optional links to other man pages, e.g. ~~
-~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
+test
 }
 \examples{
-~~ simple examples of the most important functions ~~
+test
 }
