@@ -1,0 +1,9 @@
+Package: amabie
+Type: Package
+Title: AMABIE: Allele-specific methylation analysis with Bayesian inference
+Version: 0.0.1
+Date: 2020-12-23
+Author: Teppei Shimamura <shimamura@med.nagoya-u.ac.jp>
+Maintainer: Teppei Shimamura <shimamura@med.nagoya-u.ac.jp>
+Description: Allele-specific methylation analysis with Bayesian inference
+License: What license is it under?

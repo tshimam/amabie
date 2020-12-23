@@ -1,0 +1,2 @@
+import(rhdf5)
+export("extract_all_fastq", "extract_fastq")
