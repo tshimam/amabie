@@ -1,9 +1,15 @@
 Package: amabie
-Type: Package
-Title: AMABIE: Allele-specific methylation analysis with Bayesian inference
-Version: 0.0.1
-Date: 2020-12-23
-Author: Teppei Shimamura <shimamura@med.nagoya-u.ac.jp>
-Maintainer: Teppei Shimamura <shimamura@med.nagoya-u.ac.jp>
-Description: Allele-specific methylation analysis with Bayesian inference
-License: What license is it under?
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "First",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
